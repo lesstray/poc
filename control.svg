@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="300" height="120">
+  <text x="20" y="40" font-size="24">SVG_OK</text>
+  <image xlink:href="https://i.pinimg.com/originals/46/a4/f1/46a4f13ec0c4a912c3064ec89e645308.jpg?nii=t"
+         x="20" y="60" width="50" height="50"/>
+</svg>
